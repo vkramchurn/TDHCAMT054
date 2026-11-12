@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CAMT054FunctionApp\\CAMT054FunctionApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Test Azure App\\Test Azure App.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

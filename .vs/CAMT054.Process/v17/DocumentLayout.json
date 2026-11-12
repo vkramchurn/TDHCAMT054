@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\banktransactionhelperv8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\banktransactionhelperv8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\banktransactionhelperv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\banktransactionhelperv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\processxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\processxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\camt_054_001_08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\camt_054_001_08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\camt_054_001_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\camt_054_001_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\test azure app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|solutionrelative:test azure app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\test azure app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|solutionrelative:test azure app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054functionapp\\processxmlfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|solutionrelative:camt054functionapp\\processxmlfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\banktransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\banktransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054functionapp\\camt.054.001.04.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|solutionrelative:camt054functionapp\\camt.054.001.04.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\xmlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\xmlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\test azure app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC3B1FCA-DBFF-4E09-B6B8-B5AABC494310}|Test Azure App\\Test Azure App.csproj|solutionrelative:test azure app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054functionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAA3FCAC-8B12-4DD0-994D-542E07A25D67}|CAMT054FunctionApp\\CAMT054FunctionApp.csproj|solutionrelative:camt054functionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|c:\\vasantaworkings\\blmssolutions\\bc\\tdh\\camt054\\camt054.process\\camt054.process\\models\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90048ED7-2F09-4BCC-B199-920AC18BCA4E}|CAMT054.Process\\CAMT054.Process.csproj|solutionrelative:camt054.process\\models\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 559,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransactionHelperV4.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionHelperV4.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\BankTransactionHelperV4.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionHelperV4.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\BankTransactionHelperV4.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwIEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:19:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTransactionHelperV8.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionHelperV8.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\BankTransactionHelperV8.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionHelperV8.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\BankTransactionHelperV8.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAzwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:25:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonResponse.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\JsonResponse.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\JsonResponse.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\JsonResponse.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\JsonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:46:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessXML.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\ProcessXML.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\ProcessXML.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\ProcessXML.cs",
+              "RelativeToolTip": "CAMT054.Process\\ProcessXML.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vzgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:54:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "camt.054.001.04.xsd [Design]",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\camt.054.001.04.xsd",
+              "RelativeDocumentMoniker": "CAMT054FunctionApp\\camt.054.001.04.xsd",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\camt.054.001.04.xsd [Design]",
+              "RelativeToolTip": "CAMT054FunctionApp\\camt.054.001.04.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-06-01T08:11:15.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankTransactionDto.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionDto.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\BankTransactionDto.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\BankTransactionDto.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\BankTransactionDto.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA7wDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:51:39.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camt_054_001_08.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\camt_054_001_08.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\camt_054_001_08.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\camt_054_001_08.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\camt_054_001_08.cs",
+              "ViewState": "AgIAAFUjAAAAAAAAAAAYwEkjAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:30:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "camt_054_001_04.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\camt_054_001_04.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\camt_054_001_04.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\camt_054_001_04.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\camt_054_001_04.cs",
+              "ViewState": "AgIAAJIRAAAAAAAAAAAAwLERAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T11:29:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\local.settings.json",
+              "RelativeDocumentMoniker": "CAMT054FunctionApp\\local.settings.json",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\local.settings.json",
+              "RelativeToolTip": "CAMT054FunctionApp\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T11:04:49.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Program.cs",
+              "RelativeDocumentMoniker": "Test Azure App\\Program.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Program.cs",
+              "RelativeToolTip": "Test Azure App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T11:07:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcessXmlFunction.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\ProcessXmlFunction.cs",
+              "RelativeDocumentMoniker": "CAMT054FunctionApp\\ProcessXmlFunction.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054FunctionApp\\ProcessXmlFunction.cs",
+              "RelativeToolTip": "CAMT054FunctionApp\\ProcessXmlFunction.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:44:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Utils.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Utils.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Utils.cs",
+              "RelativeToolTip": "CAMT054.Process\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:56:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Azure App\\Form1.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Form1.cs",
+              "RelativeToolTip": "Test Azure App\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:08:37.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XmlRequest.cs",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\XmlRequest.cs",
+              "RelativeDocumentMoniker": "CAMT054.Process\\Models\\XmlRequest.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\CAMT054.Process\\Models\\XmlRequest.cs",
+              "RelativeToolTip": "CAMT054.Process\\Models\\XmlRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:30:02.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Azure App\\Form1.cs",
+              "ToolTip": "C:\\VasantaWorkings\\BLMsSolutions\\BC\\TDH\\CAMT054\\CAMT054.Process\\Test Azure App\\Form1.cs [Design]",
+              "RelativeToolTip": "Test Azure App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:07:04.468Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
